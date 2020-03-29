@@ -17,7 +17,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "dilab/omnipay-flutterwave": "~2.0"
+        "tarhex/omnipay-flutterwave": "~2.0"
     }
 }
 ```
