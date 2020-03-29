@@ -1,13 +1,13 @@
-# Omnipay: 2c2p
+# Omnipay: FlutterWave
 
-**2c2p driver for the Omnipay PHP payment processing library**
+**FlutterWave driver for the Omnipay PHP payment processing library**
 
-<!--[![Build Status](https://travis-ci.org/thephpleague/omnipay-2c2p.png?branch=master)](https://travis-ci.org/thephpleague/omnipay-2c2p)-->
-<!--[![Latest Stable Version](https://poser.pugx.org/omnipay/2c2p/version.png)](https://packagist.org/packages/omnipay/2c2p)-->
-<!--[![Total Downloads](https://poser.pugx.org/omnipay/2c2p/d/total.png)](https://packagist.org/packages/omnipay/2c2p)-->
+<!--[![Build Status](https://travis-ci.org/thephpleague/omnipay-flutterwave.png?branch=master)](https://travis-ci.org/thephpleague/omnipay-flutterwave)-->
+<!--[![Latest Stable Version](https://poser.pugx.org/omnipay/flutterwave/version.png)](https://packagist.org/packages/omnipay/flutterwave)-->
+<!--[![Total Downloads](https://poser.pugx.org/omnipay/2c2p/d/total.png)](https://packagist.org/packages/omnipay/flutterwave)-->
 
 [Omnipay](https://github.com/thephpleague/omnipay) is a framework agnostic, multi-gateway payment
-processing library for PHP 5.3+. This package implements 2c2p support for Omnipay.
+processing library for PHP 5.3+. This package implements flutterwave support for Omnipay.
 
 ## Installation
 
@@ -17,7 +17,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "dilab/omnipay-2c2p": "~2.0"
+        "dilab/omnipay-flutterwave": "~2.0"
     }
 }
 ```
@@ -48,5 +48,5 @@ If you want to keep up to date with release anouncements, discuss ideas for the 
 or ask more detailed questions, there is also a [mailing list](https://groups.google.com/forum/#!forum/omnipay) which
 you can subscribe to.
 
-If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/dilab/omnipay-2c2p/issues),
+If you believe you have found a bug, please report it using the [GitHub issue tracker](https://github.com/tarhex/omnipay-flutterwave/issues),
 or better yet, fork the library and submit a pull request.
